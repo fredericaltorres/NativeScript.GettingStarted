@@ -33,3 +33,5 @@ allow to build the iOS app in the cloud.
 [Web Portal](https://iforgot.apple.com/appleid#!&section=appleid)
 
 [Code Signing Assistance](https://docs.nativescript.org/sidekick/user-guide/code-signing/code-signing-for-ios/code-signing-assistance)
+
+[Setting certificate and provisionning video](https://www.youtube.com/watch?v=5gKuR2UCOnM)
