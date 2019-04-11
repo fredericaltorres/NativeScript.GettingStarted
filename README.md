@@ -15,6 +15,7 @@ This document describe the different installation steps to be able to
 ### NativeScript + Vue
 
 ```bash
+# sudo on macos
 npm install -g nativescript
 ```
 
