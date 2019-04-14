@@ -38,6 +38,10 @@ Download and install [sidekick windows app](https://www.nativescript.org/natives
 
 - See [Setting certificate and provisionning video](https://www.youtube.com/watch?v=5gKuR2UCOnM)
 
+- Configure Team:
+ - [How to add a developer account to XCode](https://jameshfisher.com/2017/03/03/add-developer-account-to-xcode/)
+ - In file app/App_Resources/iOS/build.xcconfig, set DEVELOPMENT_TEAM = [NAME OF THE APPLE ID ACCOUNT];
+
 ### Cloud Builds
 
 [Cloud Builds](https://docs.nativescript.org/sidekick/user-guide/build-app/cloud-build)
