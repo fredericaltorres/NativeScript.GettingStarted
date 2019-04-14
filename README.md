@@ -39,3 +39,15 @@ allow to build the iOS app in the cloud.
 ## Development Documentation
 
 [XML Markup Language](https://docs.nativescript.org/ui/ns-ui-widgets/action-bar)
+
+
+# Firebase
+
+The firebase plugin does not work running your native script app in `Preview` mode.
+
+- Error Message: `Plugin nativescript-plugin-firebase is not included in preview app on device 63453FFF-F433-4DBF-ACDC-23A3B8905966 and will not work.`
+
+- Solutions
+  * Compile the application locally with XCode and run it in the emulator
+  * compile the application locally with XCode run it on a real device
+  
