@@ -25,6 +25,8 @@ Download and install [sidekick windows app](https://www.nativescript.org/natives
 
 ### MacOs Configuration
 - Install XCode
+ * run sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+- See [MacOs QuickSetup](https://docs.nativescript.org/start/quick-setup)
 - See instructions [ns-setup-os-x](https://docs.nativescript.org/start/ns-setup-os-x)
 
 ### Cloud Builds
