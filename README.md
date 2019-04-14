@@ -36,6 +36,8 @@ Download and install [sidekick windows app](https://www.nativescript.org/natives
  
 - See instructions [ns-setup-os-x](https://docs.nativescript.org/start/ns-setup-os-x)
 
+- See [Setting certificate and provisionning video](https://www.youtube.com/watch?v=5gKuR2UCOnM)
+
 ### Cloud Builds
 
 [Cloud Builds](https://docs.nativescript.org/sidekick/user-guide/build-app/cloud-build)
