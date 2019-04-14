@@ -23,6 +23,10 @@ npm install -g nativescript
 
 Download and install [sidekick windows app](https://www.nativescript.org/nativescript-sidekick).
 
+### MacOs Configuration
+- Install XCode
+- See instructions [ns-setup-os-x](https://docs.nativescript.org/start/ns-setup-os-x)
+
 ### Cloud Builds
 
 [Cloud Builds](https://docs.nativescript.org/sidekick/user-guide/build-app/cloud-build)
