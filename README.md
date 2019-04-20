@@ -58,6 +58,7 @@ allow to build the iOS app in the cloud.
 ## Development Documentation
 
 [XML Markup Language](https://docs.nativescript.org/ui/ns-ui-widgets/action-bar)
+[Font Awseome](https://fontawesome.com/v3.2.1/cheatsheet/)
 
 
 # Firebase
